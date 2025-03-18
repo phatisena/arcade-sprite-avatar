@@ -1,0 +1,28 @@
+{
+    "name": "arcade-sprite-avatar",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "avatarspr-kind.ts",
+        "avatarspr-main.ts",
+        "README.md",
+        "assets.json",
+        "avatarspr-kind.ts",
+        "avatarspr-main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.61",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
